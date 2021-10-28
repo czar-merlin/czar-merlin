@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @czar-merlin
 - 👀 I’m interested in physics, mathematics, general relativity. 
-- 🌱 I’m currently learning MATLAB.
+- 🌱 I’m currently learning MATLAB and R.
 - 💞️ I’m looking to collaborate on computational modelling.
 - 📫 You can reach me at merlin.zar@gmail.com
 
